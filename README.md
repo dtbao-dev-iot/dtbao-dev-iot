@@ -30,8 +30,8 @@ I'm an **Embedded Systems Engineer** with a strong focus on **Embedded Linux** d
 
 ### 🌐 Let's Connect!
 
-* [**Facebook**](https://www.facebook.com/dtbao251199)
-* [**Email**](dtbao1999@gmail.com)
+* **Facebook:** https://www.facebook.com/dtbao251199
+* **Email:** dtbao1999@gmail.com
 
 ---
 
