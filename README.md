@@ -12,6 +12,7 @@ I'm an **Embedded Systems Engineer** with a strong focus on **Embedded Linux** d
 * **IoT & Connectivity:** Developing solutions involving various communication protocols (UART, SPI, I2C, Ethernet, Wi-Fi, Bluetooth).
 * **Build Systems:** Proficient with Yocto Project, Buildroot, CMake, and Makefiles for building embedded distributions.
 * **RTOS:** Experience with FreeRTOS, Zephyr, and other real-time operating systems.
+* **GUI Library Embedded:** LVGL
 
 ---
 
