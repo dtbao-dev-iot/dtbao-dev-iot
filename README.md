@@ -38,9 +38,8 @@ I'm an **Embedded Systems Engineer** with a strong focus on **Embedded Linux** d
 
 ### 🌐 Let's Connect!
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Website/Blog:** [Your Personal Website/Blog URL (if you have one)]
-* **Email:** [Your Professional Email Address]
+* **Facebook:** [https://www.facebook.com/dtbao251199]
+* **Email:** [dtbao1999@gmail.com]
 
 ---
 
