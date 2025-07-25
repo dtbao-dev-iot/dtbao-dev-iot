@@ -18,28 +18,20 @@ I'm an **Embedded Systems Engineer** with a strong focus on **Embedded Linux** d
 ### 🛠️ Technologies & Tools
 
 * **Languages:** C, C++, Python, Shell Scripting
-* **Operating Systems:** Embedded Linux, FreeRTOS, Zephyr, bare-metal
-* **Architectures:** ARM (Cortex-A, Cortex-M), RISC-V, MIPS
-* **Build Systems:** Yocto Project, Buildroot, CMake, Make
+* **Operating Systems:** Embedded Linux, FreeRTOS, bare-metal
+* **Architectures:** ARM (Cortex-A, Cortex-M), RISC-V
+* **Build Systems:** Buildroot, CMake, Make
 * **Debugging:** GDB, JTAG/SWD, Logic Analyzers, Oscilloscopes
 * **Version Control:** Git, GitHub, GitLab
-* **Hardware Tools:** Oscilloscopes, Logic Analyzers, Multimeters, Soldering Iron
-* **Other:** Docker, VirtualBox, QEMU
-
----
-
-### 🌱 I'm Currently Learning/Exploring
-
-* [e.g., Rust for embedded systems]
-* [e.g., Advanced concepts in secure boot for embedded devices]
-* [e.g., Machine learning at the edge]
+* **Hardware Tools:** Oscilloscopes, Logic Analyzers, Altium
+* **Other:** Docker, VirtualBox
 
 ---
 
 ### 🌐 Let's Connect!
 
-* **Facebook:** [https://www.facebook.com/dtbao251199]
-* **Email:** [dtbao1999@gmail.com]
+* [**Facebook**](https://www.facebook.com/dtbao251199)
+* [**Email:**](dtbao1999@gmail.com)
 
 ---
 
