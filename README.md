@@ -1,16 +1,50 @@
-<h1 align="center">Hi 👋, I'm BaoDoan-IoT</h1>
-<h3 align="center">Embedded System & IoT & Embedded Linux System</h3>
+### Hi there 👋 I'm BaoDoan - IoT!
 
-- 🔭 I’m currently working on **ESP32 Series, STM32 Series, GD32 Series**
+I'm an **Embedded Systems Engineer** with a strong focus on **Embedded Linux** development. I thrive on building robust and efficient solutions at the intersection of hardware and software.
 
-- 💬 Ask me about **Embedded System**
+---
 
-- 📫 How to reach me **dtbao1999@gmail.com**
+### 🚀 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/dtbao251199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dtbao251199" height="30" width="40" /></a>
-</p>
+* **Embedded Linux Development:** Customizing kernels, developing device drivers, and optimizing system performance for resource-constrained environments.
+* **Firmware Development:** Writing low-level code for microcontrollers (ARM Cortex-M/R, ESP32, STM32) using C/C++ and assembly.
+* **Board Bring-Up & BSP:** Experienced in bringing up new hardware platforms, debugging, and creating Board Support Packages.
+* **IoT & Connectivity:** Developing solutions involving various communication protocols (UART, SPI, I2C, Ethernet, Wi-Fi, Bluetooth).
+* **Build Systems:** Proficient with Yocto Project, Buildroot, CMake, and Makefiles for building embedded distributions.
+* **RTOS:** Experience with FreeRTOS, Zephyr, and other real-time operating systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Technologies & Tools
+
+* **Languages:** C, C++, Python, Shell Scripting
+* **Operating Systems:** Embedded Linux, FreeRTOS, Zephyr, bare-metal
+* **Architectures:** ARM (Cortex-A, Cortex-M), RISC-V, MIPS
+* **Build Systems:** Yocto Project, Buildroot, CMake, Make
+* **Debugging:** GDB, JTAG/SWD, Logic Analyzers, Oscilloscopes
+* **Version Control:** Git, GitHub, GitLab
+* **Hardware Tools:** Oscilloscopes, Logic Analyzers, Multimeters, Soldering Iron
+* **Other:** Docker, VirtualBox, QEMU
+
+---
+
+### 🌱 I'm Currently Learning/Exploring
+
+* [e.g., Rust for embedded systems]
+* [e.g., Advanced concepts in secure boot for embedded devices]
+* [e.g., Machine learning at the edge]
+
+---
+
+### 🌐 Let's Connect!
+
+* **LinkedIn:** [Your LinkedIn Profile URL]
+* **Website/Blog:** [Your Personal Website/Blog URL (if you have one)]
+* **Email:** [Your Professional Email Address]
+
+---
+
+### 📊 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
