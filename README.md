@@ -1,6 +1,14 @@
-### Hi there 👋 I'm BaoDoan - IoT!
+### Hi there 👋 I'm BaoDoan - Embedded!
 
-I'm an **Embedded Systems Engineer** with a strong focus on **Embedded Linux** development. I thrive on building robust and efficient solutions at the intersection of hardware and software.
+I'm an **Embedded Systems Engineer** with 6+ years of experience specializing in **Embedded Linux** development. I thrive on building robust and efficient solutions at the intersection of hardware and software, with expertise in both resource-constrained microcontrollers and complex embedded systems.
+
+---
+
+### 💼 Professional Experience
+
+* **6+ Years in Embedded Systems:** Extensive experience developing embedded solutions across various industries including automotive, IoT applications.
+* **End-to-End Product Development:** Successfully delivered multiple embedded products from concept through production, including firmware upgrades and maintenance systems.
+* **Product Management:** Experienced in managing product lifecycles, gathering requirements, and collaborating with cross-functional teams to deliver high-quality embedded solutions.
 
 ---
 
@@ -26,6 +34,7 @@ I'm an **Embedded Systems Engineer** with a strong focus on **Embedded Linux** d
 * **Version Control:** Git, GitHub, GitLab
 * **Hardware Tools:** Oscilloscopes, Logic Analyzers, Altium
 * **Other:** Docker, VirtualBox
+* **Microcontrollers:** ESP32S3, STM32F4, STM32F7, etc.
 
 ---
 
@@ -33,10 +42,3 @@ I'm an **Embedded Systems Engineer** with a strong focus on **Embedded Linux** d
 
 * **Facebook:** https://www.facebook.com/dtbao251199
 * **Email:** dtbao1999@gmail.com
-
----
-
-### 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
