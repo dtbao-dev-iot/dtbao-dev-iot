@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm BaoDoan - Embedded!
 
-I'm an **Embedded Systems Engineer** with 6+ years of experience specializing in **Embedded Linux** development. I thrive on building robust and efficient solutions at the intersection of hardware and software, with expertise in both resource-constrained microcontrollers and complex embedded systems.
+I'm an **Embedded Systems Engineer** with 6+ years of experience specializing in **Embedded Linux**/**Embedded Systems** development. I thrive on building robust and efficient solutions at the intersection of hardware and software, with expertise in both resource-constrained microcontrollers and complex embedded systems.
 
 ---
 
